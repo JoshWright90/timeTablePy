@@ -9,7 +9,10 @@ Simple CLI application to show a 5 day A/B week timetable for:
 *This Week
 
 ![screenshot1](./screenshots/screenshot1.jpg?raw=true)
-![image1](https://raw.githubusercontent.com/JoshWright90/timeTablePy/main/screenshots/screenshot1.jpg)
+
+![image1](https://raw.githubusercontent.com/JoshWright90/timeTablePy/main/screenshots/screenshot1.jpg?raw=true)
+
+
 
 
 
